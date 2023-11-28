@@ -67,3 +67,5 @@
     [Swagger Redoc Documentation](http://localhost:8000/redoc/)
 
 
+11. **To run tests:**
+     python manage.py test
