@@ -6,7 +6,7 @@
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Basharat908/vendor-management-system.git
+    git clone [https://github.com/Basharat908/vendor-management-system.git](https://github.com/Basharat908/vendor-management-system.git)
     ```
 
 2. **Navigate to the project directory:**
