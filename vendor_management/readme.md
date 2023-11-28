@@ -68,6 +68,6 @@
 
 
 11. **To run test:**
-    ```python manage.py test
-    ```
+    python manage.py test
+    
       
