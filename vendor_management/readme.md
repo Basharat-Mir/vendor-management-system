@@ -68,4 +68,8 @@
 
 
 11. **To run tests:**
-     python manage.py test
+
+    ```bash
+    python manage.py test
+    ```
+    
